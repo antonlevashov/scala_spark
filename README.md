@@ -13,3 +13,7 @@ Detailed tutorial by Dean Wampler, Ph.D. Lightbend dean.wampler@lightbend.com @d
 
 # Elephas: Distributed Deep Learning with Keras & Spark 
 - https://github.com/maxpumperla/elephas
+
+# Awesome Scala 
+A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by awesome-python. Other amazingly awesome lists can be found in the awesome-awesomeness list.
+- https://github.com/lauris/awesome-scala
