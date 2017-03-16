@@ -22,3 +22,8 @@ A community driven list of useful Scala libraries, frameworks and software. This
 # Advanced Analytics with Spark
 Code to accompany Advanced Analytics with Spark from O'Reilly Media
 - https://github.com/sryza/aas
+
+
+# Code search for Developers
+scala spark dataframe, find code online
+- https://codegists.com/search/scala-spark-dataframe/1
